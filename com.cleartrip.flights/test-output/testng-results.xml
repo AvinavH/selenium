@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49322" started-at="2020-11-27T05:34:52Z" finished-at="2020-11-27T05:35:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49322" started-at="2020-11-27T05:34:52Z" finished-at="2020-11-27T05:35:42Z">
+      <class name="com.cleartrip.flights.TestNG">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.cleartrip.flights.TestNG@61009542]" name="test1" is-config="true" duration-ms="10293" started-at="2020-11-27T11:04:52Z" finished-at="2020-11-27T11:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="searching()[pri:0, instance:com.cleartrip.flights.TestNG@61009542]" name="searching" duration-ms="37660" started-at="2020-11-27T11:05:03Z" finished-at="2020-11-27T11:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.cleartrip.flights.TestNG@61009542]" name="exit" is-config="true" duration-ms="1315" started-at="2020-11-27T11:05:40Z" finished-at="2020-11-27T11:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.cleartrip.flights.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
