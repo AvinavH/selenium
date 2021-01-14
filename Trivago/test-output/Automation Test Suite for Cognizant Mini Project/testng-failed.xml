@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation Test Suite for Cognizant Mini Project]">
+  <test thread-count="5" name="Automation for Trivago(failed)">
+    <classes>
+      <class name="com.trivago.test.trivagoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="TrivagoTest"/>
+        </methods>
+      </class> <!-- com.trivago.test.trivagoTest -->
+    </classes>
+  </test> <!-- Automation for Trivago(failed) -->
+</suite> <!-- Failed suite [Automation Test Suite for Cognizant Mini Project] -->

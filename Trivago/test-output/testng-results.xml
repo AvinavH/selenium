@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13816" started-at="2020-07-24T13:41:26 IST" finished-at="2020-07-24T13:41:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13816" started-at="2020-07-24T13:41:26 IST" finished-at="2020-07-24T13:41:40 IST">
+      <class name="com.trivago.test.trivagoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.trivago.test.trivagoTest@3fd7a715]" name="setUp" is-config="true" duration-ms="11042" started-at="2020-07-24T13:41:26 IST" finished-at="2020-07-24T13:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TrivagoTest()[pri:0, instance:com.trivago.test.trivagoTest@3fd7a715]" name="TrivagoTest" duration-ms="2724" started-at="2020-07-24T13:41:37 IST" finished-at="2020-07-24T13:41:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrivagoTest -->
+      </class> <!-- com.trivago.test.trivagoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
