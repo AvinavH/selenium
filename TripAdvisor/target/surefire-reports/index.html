@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project">
+              <span class="suite-name border-passed">Automation Test Suite for Cognizant Mini-project</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>C:\Users\avina\eclipse-workspace\TripAdvisor\testNg.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>2 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Automation_Test_Suite_for_Cognizant_Mini_project">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">19 methods,   19 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" class="hide-methods passed suite-Automation_Test_Suite_for_Cognizant_Mini_project"> (hide)</a> <!-- hide-methods passed suite-Automation_Test_Suite_for_Cognizant_Mini_project -->
+                      <a href="#" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" class="show-methods passed suite-Automation_Test_Suite_for_Cognizant_Mini_project"> (show)</a> <!-- show-methods passed suite-Automation_Test_Suite_for_Cognizant_Mini_project -->
+                    </span>
+                    <div class="method-list-content passed suite-Automation_Test_Suite_for_Cognizant_Mini_project">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="checkinBtnSmoke">checkinBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="checkoutBtnSmoke">checkoutBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="getSearchResultsTest">getSearchResultsTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="guestBtnSmoke">guestBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="homePageTest">homePageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="hotelBtnSmoke">hotelBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="hotelRadioBtnSmoke">hotelRadioBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="mumbaiHotelHeaderSmoke">mumbaiHotelHeaderSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="mumbaiHotelSmoke">mumbaiHotelSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="searchBtnSmoke">searchBtnSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="searchFieldSmoke">searchFieldSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="secondPageTest">secondPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="setCheckinDateTest">setCheckinDateTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="setCheckoutDateTest">setCheckoutDateTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="setHighestPriceSliderTest">setHighestPriceSliderTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="setLowestPriceSliderTest">setLowestPriceSliderTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="thirdPageTest">thirdPageTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorSmokeTest" hash-for-method="tripLogoSmoke">tripLogoSmoke</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" title="com.tripadvisor.test.tripAdvisorTest" hash-for-method="updateTest">updateTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Automation_Test_Suite_for_Cognizant_Mini_project -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel Automation_Test_Suite_for_Cognizant_Mini_project">
+          <div class="suite-Automation_Test_Suite_for_Cognizant_Mini_project-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tripadvisor.test.tripAdvisorTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="getSearchResultsTest">
+                  </a> <!-- getSearchResultsTest -->
+                  <span class="method-name">getSearchResultsTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageTest">
+                  </a> <!-- homePageTest -->
+                  <span class="method-name">homePageTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="secondPageTest">
+                  </a> <!-- secondPageTest -->
+                  <span class="method-name">secondPageTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="setCheckinDateTest">
+                  </a> <!-- setCheckinDateTest -->
+                  <span class="method-name">setCheckinDateTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="setCheckoutDateTest">
+                  </a> <!-- setCheckoutDateTest -->
+                  <span class="method-name">setCheckoutDateTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="setHighestPriceSliderTest">
+                  </a> <!-- setHighestPriceSliderTest -->
+                  <span class="method-name">setHighestPriceSliderTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="setLowestPriceSliderTest">
+                  </a> <!-- setLowestPriceSliderTest -->
+                  <span class="method-name">setLowestPriceSliderTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="thirdPageTest">
+                  </a> <!-- thirdPageTest -->
+                  <span class="method-name">thirdPageTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="updateTest">
+                  </a> <!-- updateTest -->
+                  <span class="method-name">updateTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Test_Suite_for_Cognizant_Mini_project-class-passed -->
+          <div class="suite-Automation_Test_Suite_for_Cognizant_Mini_project-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tripadvisor.test.tripAdvisorSmokeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkinBtnSmoke">
+                  </a> <!-- checkinBtnSmoke -->
+                  <span class="method-name">checkinBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkoutBtnSmoke">
+                  </a> <!-- checkoutBtnSmoke -->
+                  <span class="method-name">checkoutBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="guestBtnSmoke">
+                  </a> <!-- guestBtnSmoke -->
+                  <span class="method-name">guestBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelBtnSmoke">
+                  </a> <!-- hotelBtnSmoke -->
+                  <span class="method-name">hotelBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="hotelRadioBtnSmoke">
+                  </a> <!-- hotelRadioBtnSmoke -->
+                  <span class="method-name">hotelRadioBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mumbaiHotelHeaderSmoke">
+                  </a> <!-- mumbaiHotelHeaderSmoke -->
+                  <span class="method-name">mumbaiHotelHeaderSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mumbaiHotelSmoke">
+                  </a> <!-- mumbaiHotelSmoke -->
+                  <span class="method-name">mumbaiHotelSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchBtnSmoke">
+                  </a> <!-- searchBtnSmoke -->
+                  <span class="method-name">searchBtnSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchFieldSmoke">
+                  </a> <!-- searchFieldSmoke -->
+                  <span class="method-name">searchFieldSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tripLogoSmoke">
+                  </a> <!-- tripLogoSmoke -->
+                  <span class="method-name">tripLogoSmoke</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Test_Suite_for_Cognizant_Mini_project-class-passed -->
+        </div> <!-- panel Automation_Test_Suite_for_Cognizant_Mini_project -->
+        <div panel-name="test-xml-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\avina\eclipse-workspace\TripAdvisor\testNg.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Automation Test Suite for Cognizant Mini-project&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;Regression Test for TripAdvisor&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.tripadvisor.test.tripAdvisorSmokeTest&quot;/&gt;
+      &lt;class name=&quot;com.tripadvisor.test.tripAdvisorTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Regression Test for TripAdvisor --&gt;
+&lt;/suite&gt; &lt;!-- Automation Test Suite for Cognizant Mini-project --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Automation Test Suite for Cognizant Mini-project</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Regression Test for TripAdvisor (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Automation Test Suite for Cognizant Mini-project</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">getSearchResultsTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">homePageTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchFieldSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">secondPageTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">setCheckinDateTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">setCheckoutDateTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">setHighestPriceSliderTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">setLowestPriceSliderTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">thirdPageTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">updateTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">checkinBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">checkoutBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">guestBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">hotelBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">hotelRadioBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mumbaiHotelHeaderSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">mumbaiHotelSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchBtnSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchFieldSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">thirdPageTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">tripLogoSmoke</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Automation Test Suite for Cognizant Mini-project</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Automation_Test_Suite_for_Cognizant_Mini_project');
+function tableData_Automation_Test_Suite_for_Cognizant_Mini_project() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(19);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'mumbaiHotelSmoke')
+data.setCell(0, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(0, 3, 10035);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'setCheckinDateTest')
+data.setCell(1, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(1, 3, 9137);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'setCheckoutDateTest')
+data.setCell(2, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(2, 3, 8921);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'getSearchResultsTest')
+data.setCell(3, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(3, 3, 8006);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'thirdPageTest')
+data.setCell(4, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(4, 3, 6786);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'setHighestPriceSliderTest')
+data.setCell(5, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(5, 3, 6645);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'secondPageTest')
+data.setCell(6, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(6, 3, 4285);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'setLowestPriceSliderTest')
+data.setCell(7, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(7, 3, 2823);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'searchFieldSmoke')
+data.setCell(8, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(8, 3, 2586);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'mumbaiHotelHeaderSmoke')
+data.setCell(9, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(9, 3, 2247);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'updateTest')
+data.setCell(10, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(10, 3, 835);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'searchBtnSmoke')
+data.setCell(11, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(11, 3, 631);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'checkinBtnSmoke')
+data.setCell(12, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(12, 3, 271);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'guestBtnSmoke')
+data.setCell(13, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(13, 3, 230);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'checkoutBtnSmoke')
+data.setCell(14, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(14, 3, 214);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'tripLogoSmoke')
+data.setCell(15, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(15, 3, 190);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'hotelRadioBtnSmoke')
+data.setCell(16, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(16, 3, 174);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'hotelBtnSmoke')
+data.setCell(17, 2, 'com.tripadvisor.test.tripAdvisorSmokeTest')
+data.setCell(17, 3, 147);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'homePageTest')
+data.setCell(18, 2, 'com.tripadvisor.test.tripAdvisorTest')
+data.setCell(18, 3, 62);
+window.suiteTableData['Automation_Test_Suite_for_Cognizant_Mini_project']= { tableData: data, tableDiv: 'times-div-Automation_Test_Suite_for_Cognizant_Mini_project'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Automation_Test_Suite_for_Cognizant_Mini_project">
+              </div> <!-- times-div-Automation_Test_Suite_for_Cognizant_Mini_project -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Automation Test Suite for Cognizant Mini-project</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Automation_Test_Suite_for_Cognizant_Mini_project" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tripadvisor.test.tripAdvisorSmokeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">tripLogoSmoke</span>
+                <span class="method-start">20514 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">hotelBtnSmoke</span>
+                <span class="method-start">20729 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">searchFieldSmoke</span>
+                <span class="method-start">20877 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">searchBtnSmoke</span>
+                <span class="method-start">23464 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mumbaiHotelSmoke</span>
+                <span class="method-start">24096 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mumbaiHotelHeaderSmoke</span>
+                <span class="method-start">34142 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkinBtnSmoke</span>
+                <span class="method-start">36390 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkoutBtnSmoke</span>
+                <span class="method-start">36663 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">guestBtnSmoke</span>
+                <span class="method-start">36879 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">hotelRadioBtnSmoke</span>
+                <span class="method-start">37110 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">browserClose</span>
+                <span class="method-start">37287 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tripadvisor.test.tripAdvisorTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">41707 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">homePageTest</span>
+                <span class="method-start">51533 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">secondPageTest</span>
+                <span class="method-start">51597 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">thirdPageTest</span>
+                <span class="method-start">55883 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">setCheckinDateTest</span>
+                <span class="method-start">62671 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">setCheckoutDateTest</span>
+                <span class="method-start">71810 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">updateTest</span>
+                <span class="method-start">80732 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">setLowestPriceSliderTest</span>
+                <span class="method-start">81569 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">setHighestPriceSliderTest</span>
+                <span class="method-start">84394 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">getSearchResultsTest</span>
+                <span class="method-start">91041 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">99048 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

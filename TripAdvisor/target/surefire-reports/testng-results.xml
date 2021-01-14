@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test Suite for Cognizant Mini-project" duration-ms="100140" started-at="2020-08-14T18:17:15 IST" finished-at="2020-08-14T18:18:55 IST">
+    <groups>
+      <group name="regression">
+        <method signature="tripAdvisorTest.homePageTest()[pri:1, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="homePageTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.secondPageTest()[pri:2, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="secondPageTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.thirdPageTest()[pri:3, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="thirdPageTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.setCheckinDateTest()[pri:4, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setCheckinDateTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.setCheckoutDateTest()[pri:5, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setCheckoutDateTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.setLowestPriceSliderTest()[pri:7, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setLowestPriceSliderTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.setHighestPriceSliderTest()[pri:8, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setHighestPriceSliderTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.getSearchResultsTest()[pri:9, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="getSearchResultsTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorTest.updateTest()[pri:6, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="updateTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorSmokeTest.searchFieldSmoke()[pri:3, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="searchFieldSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="tripAdvisorTest.thirdPageTest()[pri:3, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="thirdPageTest" class="com.tripadvisor.test.tripAdvisorTest"/>
+        <method signature="tripAdvisorSmokeTest.checkinBtnSmoke()[pri:7, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="checkinBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.checkoutBtnSmoke()[pri:8, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="checkoutBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.guestBtnSmoke()[pri:9, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="guestBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.hotelBtnSmoke()[pri:2, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="hotelBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.hotelRadioBtnSmoke()[pri:10, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="hotelRadioBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.mumbaiHotelHeaderSmoke()[pri:6, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="mumbaiHotelHeaderSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.mumbaiHotelSmoke()[pri:5, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="mumbaiHotelSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.searchBtnSmoke()[pri:4, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="searchBtnSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.searchFieldSmoke()[pri:3, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="searchFieldSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+        <method signature="tripAdvisorSmokeTest.tripLogoSmoke()[pri:1, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="tripLogoSmoke" class="com.tripadvisor.test.tripAdvisorSmokeTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Regression Test for TripAdvisor" duration-ms="100140" started-at="2020-08-14T18:17:15 IST" finished-at="2020-08-14T18:18:55 IST">
+      <class name="com.tripadvisor.test.tripAdvisorTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setUp" is-config="true" duration-ms="9826" started-at="2020-08-14T18:17:57 IST" finished-at="2020-08-14T18:18:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTest()[pri:1, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="homePageTest" duration-ms="62" started-at="2020-08-14T18:18:07 IST" finished-at="2020-08-14T18:18:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="secondPageTest()[pri:2, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="secondPageTest" duration-ms="4285" started-at="2020-08-14T18:18:07 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.homePageTest" finished-at="2020-08-14T18:18:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondPageTest -->
+        <test-method status="PASS" signature="thirdPageTest()[pri:3, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="thirdPageTest" duration-ms="6786" started-at="2020-08-14T18:18:11 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.secondPageTest" finished-at="2020-08-14T18:18:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdPageTest -->
+        <test-method status="PASS" signature="setCheckinDateTest()[pri:4, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setCheckinDateTest" duration-ms="9137" started-at="2020-08-14T18:18:18 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.thirdPageTest" finished-at="2020-08-14T18:18:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCheckinDateTest -->
+        <test-method status="PASS" signature="setCheckoutDateTest()[pri:5, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setCheckoutDateTest" duration-ms="8921" started-at="2020-08-14T18:18:27 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.setCheckinDateTest" finished-at="2020-08-14T18:18:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCheckoutDateTest -->
+        <test-method status="PASS" signature="updateTest()[pri:6, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="updateTest" duration-ms="835" started-at="2020-08-14T18:18:36 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.setCheckoutDateTest" finished-at="2020-08-14T18:18:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTest -->
+        <test-method status="PASS" signature="setLowestPriceSliderTest()[pri:7, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setLowestPriceSliderTest" duration-ms="2823" started-at="2020-08-14T18:18:37 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.setCheckoutDateTest" finished-at="2020-08-14T18:18:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLowestPriceSliderTest -->
+        <test-method status="PASS" signature="setHighestPriceSliderTest()[pri:8, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="setHighestPriceSliderTest" duration-ms="6645" started-at="2020-08-14T18:18:39 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.setLowestPriceSliderTest" finished-at="2020-08-14T18:18:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHighestPriceSliderTest -->
+        <test-method status="PASS" signature="getSearchResultsTest()[pri:9, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="getSearchResultsTest" duration-ms="8006" started-at="2020-08-14T18:18:46 IST" depends-on-methods="com.tripadvisor.test.tripAdvisorTest.setHighestPriceSliderTest" finished-at="2020-08-14T18:18:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSearchResultsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tripadvisor.test.tripAdvisorTest@48503868]" name="tearDown" is-config="true" duration-ms="1069" started-at="2020-08-14T18:18:54 IST" finished-at="2020-08-14T18:18:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tripadvisor.test.tripAdvisorTest -->
+      <class name="com.tripadvisor.test.tripAdvisorSmokeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="setUp" is-config="true" duration-ms="20483" started-at="2020-08-14T18:17:15 IST" finished-at="2020-08-14T18:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tripLogoSmoke()[pri:1, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="tripLogoSmoke" duration-ms="190" started-at="2020-08-14T18:17:36 IST" finished-at="2020-08-14T18:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripLogoSmoke -->
+        <test-method status="PASS" signature="hotelBtnSmoke()[pri:2, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="hotelBtnSmoke" duration-ms="147" started-at="2020-08-14T18:17:36 IST" finished-at="2020-08-14T18:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBtnSmoke -->
+        <test-method status="PASS" signature="searchFieldSmoke()[pri:3, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="searchFieldSmoke" duration-ms="2586" started-at="2020-08-14T18:17:36 IST" finished-at="2020-08-14T18:17:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFieldSmoke -->
+        <test-method status="PASS" signature="searchBtnSmoke()[pri:4, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="searchBtnSmoke" duration-ms="631" started-at="2020-08-14T18:17:39 IST" finished-at="2020-08-14T18:17:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBtnSmoke -->
+        <test-method status="PASS" signature="mumbaiHotelSmoke()[pri:5, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="mumbaiHotelSmoke" duration-ms="10035" started-at="2020-08-14T18:17:39 IST" finished-at="2020-08-14T18:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mumbaiHotelSmoke -->
+        <test-method status="PASS" signature="mumbaiHotelHeaderSmoke()[pri:6, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="mumbaiHotelHeaderSmoke" duration-ms="2247" started-at="2020-08-14T18:17:49 IST" finished-at="2020-08-14T18:17:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mumbaiHotelHeaderSmoke -->
+        <test-method status="PASS" signature="checkinBtnSmoke()[pri:7, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="checkinBtnSmoke" duration-ms="271" started-at="2020-08-14T18:17:51 IST" finished-at="2020-08-14T18:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkinBtnSmoke -->
+        <test-method status="PASS" signature="checkoutBtnSmoke()[pri:8, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="checkoutBtnSmoke" duration-ms="214" started-at="2020-08-14T18:17:52 IST" finished-at="2020-08-14T18:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutBtnSmoke -->
+        <test-method status="PASS" signature="guestBtnSmoke()[pri:9, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="guestBtnSmoke" duration-ms="230" started-at="2020-08-14T18:17:52 IST" finished-at="2020-08-14T18:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guestBtnSmoke -->
+        <test-method status="PASS" signature="hotelRadioBtnSmoke()[pri:10, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="hotelRadioBtnSmoke" duration-ms="174" started-at="2020-08-14T18:17:52 IST" finished-at="2020-08-14T18:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelRadioBtnSmoke -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.tripadvisor.test.tripAdvisorSmokeTest@10bbd20a]" name="browserClose" is-config="true" duration-ms="4420" started-at="2020-08-14T18:17:52 IST" finished-at="2020-08-14T18:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.tripadvisor.test.tripAdvisorSmokeTest -->
+    </test> <!-- Regression Test for TripAdvisor -->
+  </suite> <!-- Automation Test Suite for Cognizant Mini-project -->
+</testng-results>
