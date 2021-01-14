@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test Suite for Salesforce" duration-ms="93688" started-at="2020-12-09T13:00:16 IST" finished-at="2020-12-09T13:01:50 IST">
+    <groups>
+    </groups>
+    <test name="Automation of developer.salesforce.com in Chrome" duration-ms="48412" started-at="2020-12-09T13:00:16 IST" finished-at="2020-12-09T13:01:04 IST">
+      <class name="com.salesForce.test.salesForce_Test">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.salesForce.test.salesForce_Test@23faf8f2]" name="setup" is-config="true" duration-ms="22088" started-at="2020-12-09T13:00:16 IST" finished-at="2020-12-09T13:00:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://developer.salesforce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkSignup()[pri:0, instance:com.salesForce.test.salesForce_Test@23faf8f2]" name="checkSignup" duration-ms="25049" started-at="2020-12-09T13:00:38 IST" finished-at="2020-12-09T13:01:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSignup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.salesForce.test.salesForce_Test@23faf8f2]" name="teardown" is-config="true" duration-ms="1227" started-at="2020-12-09T13:01:03 IST" finished-at="2020-12-09T13:01:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.salesForce.test.salesForce_Test -->
+    </test> <!-- Automation of developer.salesforce.com in Chrome -->
+    <test name="Automation of developer.salesforce.com in Firefox" duration-ms="45256" started-at="2020-12-09T13:01:04 IST" finished-at="2020-12-09T13:01:50 IST">
+      <class name="com.salesForce.test.salesForce_Test">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.salesForce.test.salesForce_Test@1877ab81]" name="setup" is-config="true" duration-ms="18937" started-at="2020-12-09T13:01:04 IST" finished-at="2020-12-09T13:01:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://developer.salesforce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkSignup()[pri:0, instance:com.salesForce.test.salesForce_Test@1877ab81]" name="checkSignup" duration-ms="22265" started-at="2020-12-09T13:01:23 IST" finished-at="2020-12-09T13:01:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSignup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.salesForce.test.salesForce_Test@1877ab81]" name="teardown" is-config="true" duration-ms="4051" started-at="2020-12-09T13:01:46 IST" finished-at="2020-12-09T13:01:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.salesForce.test.salesForce_Test -->
+    </test> <!-- Automation of developer.salesforce.com in Firefox -->
+  </suite> <!-- Automation Test Suite for Salesforce -->
+</testng-results>

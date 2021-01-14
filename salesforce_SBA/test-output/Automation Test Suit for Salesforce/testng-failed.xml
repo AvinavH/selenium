@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation Test Suit for Salesforce]">
+  <test thread-count="5" name="Automation of developer.salesforce.com in Chrome(failed)">
+    <parameter name="url" value="https://developer.salesforce.com/"/>
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.salesForce.test.salesForce_Test">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="checkSignup"/>
+        </methods>
+      </class> <!-- com.salesForce.test.salesForce_Test -->
+    </classes>
+  </test> <!-- Automation of developer.salesforce.com in Chrome(failed) -->
+</suite> <!-- Failed suite [Automation Test Suit for Salesforce] -->
