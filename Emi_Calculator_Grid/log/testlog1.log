@@ -1,0 +1,835 @@
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 6,483
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *******Launching Chrome Driver**********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser
+[main] INFO DriverTest.class - *********Launching Firefox Driver*********
+[main] INFO DriverTest.class - *******Checking Page Tittle************
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - select_Car FAILED test case
+[main] INFO DriverTest.class - Selecting the Car Loan option through driver
+[main] INFO DriverTest.class - Writing the amount=1500000 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=9.5 for the Car Loan
+[main] INFO DriverTest.class - Writing the interest=1 for the Car Loan
+[main] INFO DriverTest.class - Taking Screenshot
+[main] INFO DriverTest.class - Scrolling down to the location to show the first month principal and the interest
+[main] INFO DriverTest.class - Expanding the List to have a detailed view of the Principal and the intrest for First Month
+[main] INFO DriverTest.class - Taking Screenshot of the Payable principal and the interest
+[main] INFO DriverTest.class - Writing the Interest amount in a excel log, which is = ? 11,875
+[main] INFO DriverTest.class - Writing the Principal amount in a excel log, which is = ? 1,19,650
+[main] INFO DriverTest.class - Quiting the Browser

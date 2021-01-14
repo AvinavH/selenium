@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 16 11:24:16 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:92</td>
+<td title="Message">*******Launching Chrome Driver**********</td>
+</tr>
+
+<tr>
+<td>10733</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:128</td>
+<td title="Message">*******Checking Page Tittle************</td>
+</tr>
+
+<tr>
+<td>12822</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:162</td>
+<td title="Message">Selecting the Car Loan option through driver</td>
+</tr>
+
+<tr>
+<td>24042</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:175</td>
+<td title="Message">Writing the amount=1500000 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>24547</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:186</td>
+<td title="Message">Writing the interest=9.5 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>25062</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:198</td>
+<td title="Message">Writing the interest=1 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>26247</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:209</td>
+<td title="Message">Taking Screenshot</td>
+</tr>
+
+<tr>
+<td>26297</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:219</td>
+<td title="Message">Scrolling down to the location to show the first month principal and the interest</td>
+</tr>
+
+<tr>
+<td>26597</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:231</td>
+<td title="Message">Expanding the List to have a detailed view of the Principal and the intrest for First Month</td>
+</tr>
+
+<tr>
+<td>27338</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:243</td>
+<td title="Message">Taking Screenshot of the Payable principal and the interest</td>
+</tr>
+
+<tr>
+<td>29070</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:255</td>
+<td title="Message">Writing the Interest amount in a excel log, which is = ? 11,875</td>
+</tr>
+
+<tr>
+<td>29306</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:267</td>
+<td title="Message">Writing the Principal amount in a excel log, which is = ? 1,19,650</td>
+</tr>
+
+<tr>
+<td>32690</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:299</td>
+<td title="Message">Quiting the Browser</td>
+</tr>
+
+<tr>
+<td>99694</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:107</td>
+<td title="Message">*********Launching Firefox Driver*********</td>
+</tr>
+
+<tr>
+<td>116076</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:128</td>
+<td title="Message">*******Checking Page Tittle************</td>
+</tr>
+
+<tr>
+<td>116935</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:162</td>
+<td title="Message">Selecting the Car Loan option through driver</td>
+</tr>
+
+<tr>
+<td>117543</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:175</td>
+<td title="Message">Writing the amount=1500000 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>118015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:186</td>
+<td title="Message">Writing the interest=9.5 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>119128</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:198</td>
+<td title="Message">Writing the interest=1 for the Car Loan</td>
+</tr>
+
+<tr>
+<td>119585</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:209</td>
+<td title="Message">Taking Screenshot</td>
+</tr>
+
+<tr>
+<td>119617</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:219</td>
+<td title="Message">Scrolling down to the location to show the first month principal and the interest</td>
+</tr>
+
+<tr>
+<td>119946</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:231</td>
+<td title="Message">Expanding the List to have a detailed view of the Principal and the intrest for First Month</td>
+</tr>
+
+<tr>
+<td>120176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:243</td>
+<td title="Message">Taking Screenshot of the Payable principal and the interest</td>
+</tr>
+
+<tr>
+<td>120500</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:255</td>
+<td title="Message">Writing the Interest amount in a excel log, which is = ? 11,875</td>
+</tr>
+
+<tr>
+<td>121186</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:267</td>
+<td title="Message">Writing the Principal amount in a excel log, which is = ? 1,19,650</td>
+</tr>
+
+<tr>
+<td>137053</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="DriverTest.class category">DriverTest.class</td>
+<td>DriverTest.java:299</td>
+<td title="Message">Quiting the Browser</td>
+</tr>

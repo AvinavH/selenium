@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test Suit for Emi_calculator.net" duration-ms="96136" started-at="2020-07-14T10:36:49Z" finished-at="2020-07-14T10:38:25Z">
+    <groups>
+      <group name="Scroll down">
+        <method signature="DriverTest.scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="scroll_to_required_data" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="scroll_to_required_data" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- Scroll down -->
+      <group name="Outputs">
+        <method signature="DriverTest.screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="screenshots_of_Sendkeys" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="screenshots_of_FirstMonthCredentials" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="write_interest" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="write_principle" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="screenshots_of_Sendkeys" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="screenshots_of_FirstMonthCredentials" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="write_interest" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="write_principle" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- Outputs -->
+      <group name="Expand List">
+        <method signature="DriverTest.expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="expand_interest_amounts" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="expand_interest_amounts" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- Expand List -->
+      <group name="EMI Calculation Test">
+        <method signature="DriverTest.sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_ammount" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_interest" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_tennure" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_ammount" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_interest" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_tennure" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- EMI Calculation Test -->
+      <group name="Check Title">
+        <method signature="DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="emicalculator_TitleTest" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="emicalculator_TitleTest" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- Check Title -->
+      <group name="Select Tab for Car Loan">
+        <method signature="DriverTest.select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="select_Car" class="com.emicalculator.test.DriverTest"/>
+        <method signature="DriverTest.select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="select_Car" class="com.emicalculator.test.DriverTest"/>
+      </group> <!-- Select Tab for Car Loan -->
+    </groups>
+    <test name="Automation of Emi_calculator.net in Chrome" duration-ms="39695" started-at="2020-07-14T10:36:49Z" finished-at="2020-07-14T10:37:29Z">
+      <class name="com.emicalculator.test.DriverTest">
+        <test-method status="PASS" signature="driver_ready(java.lang.String, java.lang.String)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="driver_ready" is-config="true" duration-ms="27540" started-at="2020-07-14T10:36:49Z" finished-at="2020-07-14T10:37:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://emicalculator.net/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_ready -->
+        <test-method status="PASS" signature="emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="emicalculator_TitleTest" duration-ms="678" started-at="2020-07-14T10:37:17Z" finished-at="2020-07-14T10:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalculator_TitleTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:37:18Z" finished-at="2020-07-14T10:37:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emicalculator_TitleTest status=SUCCESS method=DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="select_Car" duration-ms="964" started-at="2020-07-14T10:37:18Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Car -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:19Z" finished-at="2020-07-14T10:37:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=select_Car status=SUCCESS method=DriverTest.select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_ammount" duration-ms="4611" started-at="2020-07-14T10:37:19Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_ammount -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:37:24Z" finished-at="2020-07-14T10:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_ammount status=SUCCESS method=DriverTest.sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_interest" duration-ms="416" started-at="2020-07-14T10:37:24Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_interest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:24Z" finished-at="2020-07-14T10:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_interest status=SUCCESS method=DriverTest.sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="sent_tennure" duration-ms="478" started-at="2020-07-14T10:37:24Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_tennure -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:25Z" finished-at="2020-07-14T10:37:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_tennure status=SUCCESS method=DriverTest.sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="screenshots_of_Sendkeys" duration-ms="541" started-at="2020-07-14T10:37:25Z" depends-on-methods="com.emicalculator.test.DriverTest.sent_tennure" finished-at="2020-07-14T10:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_Sendkeys -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:25Z" finished-at="2020-07-14T10:37:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshots_of_Sendkeys status=SUCCESS method=DriverTest.screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="scroll_to_required_data" duration-ms="46" started-at="2020-07-14T10:37:25Z" depends-on-methods="com.emicalculator.test.DriverTest.screenshots_of_Sendkeys" finished-at="2020-07-14T10:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll_to_required_data -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:37:25Z" finished-at="2020-07-14T10:37:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scroll_to_required_data status=SUCCESS method=DriverTest.scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="expand_interest_amounts" duration-ms="221" started-at="2020-07-14T10:37:25Z" depends-on-methods="com.emicalculator.test.DriverTest.scroll_to_required_data" finished-at="2020-07-14T10:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expand_interest_amounts -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:26Z" finished-at="2020-07-14T10:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=expand_interest_amounts status=SUCCESS method=DriverTest.expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="screenshots_of_FirstMonthCredentials" duration-ms="762" started-at="2020-07-14T10:37:26Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_FirstMonthCredentials -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="1" started-at="2020-07-14T10:37:26Z" finished-at="2020-07-14T10:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshots_of_FirstMonthCredentials status=SUCCESS method=DriverTest.screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="write_interest" duration-ms="1827" started-at="2020-07-14T10:37:26Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_interest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:37:28Z" finished-at="2020-07-14T10:37:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=write_interest status=SUCCESS method=DriverTest.write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="write_principle" duration-ms="313" started-at="2020-07-14T10:37:28Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_principle -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:37:29Z" finished-at="2020-07-14T10:37:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=write_principle status=SUCCESS method=DriverTest.write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@5fbe4146] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.emicalculator.test.DriverTest@5fbe4146]" name="exit" is-config="true" duration-ms="171" started-at="2020-07-14T10:37:29Z" finished-at="2020-07-14T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.emicalculator.test.DriverTest -->
+    </test> <!-- Automation of Emi_calculator.net in Chrome -->
+    <test name="Automation of Emi_calculator.net in Firefox" duration-ms="55844" started-at="2020-07-14T10:37:29Z" finished-at="2020-07-14T10:38:25Z">
+      <class name="com.emicalculator.test.DriverTest">
+        <test-method status="PASS" signature="driver_ready(java.lang.String, java.lang.String)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="driver_ready" is-config="true" duration-ms="38772" started-at="2020-07-14T10:37:29Z" finished-at="2020-07-14T10:38:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://emicalculator.net/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_ready -->
+        <test-method status="PASS" signature="emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="emicalculator_TitleTest" duration-ms="15" started-at="2020-07-14T10:38:08Z" finished-at="2020-07-14T10:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalculator_TitleTest -->
+        <test-method status="PASS" signature="select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="select_Car" duration-ms="875" started-at="2020-07-14T10:38:08Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Car -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:08Z" finished-at="2020-07-14T10:38:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emicalculator_TitleTest status=SUCCESS method=DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:09Z" finished-at="2020-07-14T10:38:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=select_Car status=SUCCESS method=DriverTest.select_Car()[pri:2, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_ammount" duration-ms="687" started-at="2020-07-14T10:38:09Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_ammount -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:10Z" finished-at="2020-07-14T10:38:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_ammount status=SUCCESS method=DriverTest.sent_ammount()[pri:3, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_interest" duration-ms="484" started-at="2020-07-14T10:38:10Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_interest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:10Z" finished-at="2020-07-14T10:38:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_interest status=SUCCESS method=DriverTest.sent_interest()[pri:4, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="sent_tennure" duration-ms="1083" started-at="2020-07-14T10:38:10Z" depends-on-methods="com.emicalculator.test.DriverTest.emicalculator_TitleTest" finished-at="2020-07-14T10:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_tennure -->
+        <test-method status="PASS" signature="screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="screenshots_of_Sendkeys" duration-ms="375" started-at="2020-07-14T10:38:11Z" depends-on-methods="com.emicalculator.test.DriverTest.sent_tennure" finished-at="2020-07-14T10:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_Sendkeys -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:11Z" finished-at="2020-07-14T10:38:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sent_tennure status=SUCCESS method=DriverTest.sent_tennure()[pri:5, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="scroll_to_required_data" duration-ms="78" started-at="2020-07-14T10:38:12Z" depends-on-methods="com.emicalculator.test.DriverTest.screenshots_of_Sendkeys" finished-at="2020-07-14T10:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll_to_required_data -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:12Z" finished-at="2020-07-14T10:38:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshots_of_Sendkeys status=SUCCESS method=DriverTest.screenshots_of_Sendkeys()[pri:6, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="expand_interest_amounts" duration-ms="359" started-at="2020-07-14T10:38:12Z" depends-on-methods="com.emicalculator.test.DriverTest.scroll_to_required_data" finished-at="2020-07-14T10:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expand_interest_amounts -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:12Z" finished-at="2020-07-14T10:38:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scroll_to_required_data status=SUCCESS method=DriverTest.scroll_to_required_data()[pri:7, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="screenshots_of_FirstMonthCredentials" duration-ms="140" started-at="2020-07-14T10:38:12Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_FirstMonthCredentials -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:12Z" finished-at="2020-07-14T10:38:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=expand_interest_amounts status=SUCCESS method=DriverTest.expand_interest_amounts()[pri:8, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="write_interest" duration-ms="156" started-at="2020-07-14T10:38:13Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_interest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:13Z" finished-at="2020-07-14T10:38:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshots_of_FirstMonthCredentials status=SUCCESS method=DriverTest.screenshots_of_FirstMonthCredentials()[pri:9, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="write_principle" duration-ms="276" started-at="2020-07-14T10:38:13Z" depends-on-methods="com.emicalculator.test.DriverTest.expand_interest_amounts" finished-at="2020-07-14T10:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_principle -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:13Z" finished-at="2020-07-14T10:38:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=write_interest status=SUCCESS method=DriverTest.write_interest()[pri:10, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="getResult" is-config="true" duration-ms="0" started-at="2020-07-14T10:38:13Z" finished-at="2020-07-14T10:38:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=write_principle status=SUCCESS method=DriverTest.write_principle()[pri:11, instance:com.emicalculator.test.DriverTest@4e3958e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.emicalculator.test.DriverTest@4e3958e7]" name="exit" is-config="true" duration-ms="12278" started-at="2020-07-14T10:38:13Z" finished-at="2020-07-14T10:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.emicalculator.test.DriverTest -->
+    </test> <!-- Automation of Emi_calculator.net in Firefox -->
+  </suite> <!-- Automation Test Suit for Emi_calculator.net -->
+</testng-results>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="26" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test Suit for Emi_calculator.net" duration-ms="145337" started-at="2020-08-04T12:34:49Z" finished-at="2020-08-04T12:37:14Z">
+    <groups>
+      <group name="Scroll down">
+        <method signature="DriverTest.scroll_to_required_data()[pri:9, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="scroll_to_required_data" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.scroll_to_required_data()[pri:9, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="scroll_to_required_data" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- Scroll down -->
+      <group name="Outputs">
+        <method signature="DriverTest.screenshots_of_Sendkeys()[pri:8, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="screenshots_of_Sendkeys" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_FirstMonthCredentials()[pri:11, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="screenshots_of_FirstMonthCredentials" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.write_interest()[pri:12, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="write_interest" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.write_principle()[pri:13, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="write_principle" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_Sendkeys()[pri:8, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="screenshots_of_Sendkeys" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.screenshots_of_FirstMonthCredentials()[pri:11, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="screenshots_of_FirstMonthCredentials" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.write_interest()[pri:12, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="write_interest" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.write_principle()[pri:13, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="write_principle" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- Outputs -->
+      <group name="Expand List">
+        <method signature="DriverTest.expand_interest_amounts()[pri:10, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="expand_interest_amounts" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.expand_interest_amounts()[pri:10, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="expand_interest_amounts" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- Expand List -->
+      <group name="EMI Calculation Test">
+        <method signature="DriverTest.sent_ammount()[pri:5, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_ammount" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.sent_interest()[pri:6, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_interest" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.sent_tennure()[pri:7, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_tennure" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.sent_ammount()[pri:5, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_ammount" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.sent_interest()[pri:6, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_interest" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.sent_tennure()[pri:7, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_tennure" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- EMI Calculation Test -->
+      <group name="Check Title">
+        <method signature="DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="emicalculator_TitleTest" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.emicalculator_TitleTest()[pri:1, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="emicalculator_TitleTest" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- Check Title -->
+      <group name="Select Tab for Car Loan">
+        <method signature="DriverTest.select_Car()[pri:4, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="select_Car" class="com.emi_calculator_grid.test.DriverTest"/>
+        <method signature="DriverTest.select_Car()[pri:4, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="select_Car" class="com.emi_calculator_grid.test.DriverTest"/>
+      </group> <!-- Select Tab for Car Loan -->
+    </groups>
+    <test name="Automation of Emi_calculator.net in Chrome" duration-ms="59712" started-at="2020-08-04T12:34:49Z" finished-at="2020-08-04T12:35:49Z">
+      <class name="com.emi_calculator_grid.test.DriverTest">
+        <test-method status="PASS" signature="driver_ready(java.lang.String, java.lang.String)[pri:0, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="driver_ready" is-config="true" duration-ms="30355" started-at="2020-08-04T12:34:49Z" finished-at="2020-08-04T12:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://emicalculator.net/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_ready -->
+        <test-method status="PASS" signature="emicalculator_TitleTest()[pri:1, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="emicalculator_TitleTest" duration-ms="679" started-at="2020-08-04T12:35:19Z" finished-at="2020-08-04T12:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalculator_TitleTest -->
+        <test-method status="PASS" signature="select_homeloan()[pri:2, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="select_homeloan" duration-ms="2109" started-at="2020-08-04T12:35:22Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_homeloan -->
+        <test-method status="PASS" signature="select_personalloan()[pri:3, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="select_personalloan" duration-ms="550" started-at="2020-08-04T12:35:25Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_personalloan -->
+        <test-method status="PASS" signature="select_Car()[pri:4, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="select_Car" duration-ms="350" started-at="2020-08-04T12:35:25Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Car -->
+        <test-method status="PASS" signature="sent_ammount()[pri:5, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_ammount" duration-ms="7809" started-at="2020-08-04T12:35:26Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_ammount -->
+        <test-method status="PASS" signature="sent_interest()[pri:6, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_interest" duration-ms="633" started-at="2020-08-04T12:35:33Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_interest -->
+        <test-method status="PASS" signature="sent_tennure()[pri:7, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="sent_tennure" duration-ms="847" started-at="2020-08-04T12:35:34Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_tennure -->
+        <test-method status="PASS" signature="screenshots_of_Sendkeys()[pri:8, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="screenshots_of_Sendkeys" duration-ms="1437" started-at="2020-08-04T12:35:35Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.sent_tennure" finished-at="2020-08-04T12:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_Sendkeys -->
+        <test-method status="PASS" signature="scroll_to_required_data()[pri:9, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="scroll_to_required_data" duration-ms="77" started-at="2020-08-04T12:35:36Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.screenshots_of_Sendkeys" finished-at="2020-08-04T12:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll_to_required_data -->
+        <test-method status="PASS" signature="expand_interest_amounts()[pri:10, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="expand_interest_amounts" duration-ms="278" started-at="2020-08-04T12:35:36Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.scroll_to_required_data" finished-at="2020-08-04T12:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expand_interest_amounts -->
+        <test-method status="PASS" signature="screenshots_of_FirstMonthCredentials()[pri:11, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="screenshots_of_FirstMonthCredentials" duration-ms="1569" started-at="2020-08-04T12:35:37Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_FirstMonthCredentials -->
+        <test-method status="PASS" signature="write_interest()[pri:12, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="write_interest" duration-ms="3322" started-at="2020-08-04T12:35:38Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_interest -->
+        <test-method status="PASS" signature="write_principle()[pri:13, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="write_principle" duration-ms="272" started-at="2020-08-04T12:35:42Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_principle -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.emi_calculator_grid.test.DriverTest@6200f9cb]" name="exit" is-config="true" duration-ms="6815" started-at="2020-08-04T12:35:42Z" finished-at="2020-08-04T12:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.emi_calculator_grid.test.DriverTest -->
+    </test> <!-- Automation of Emi_calculator.net in Chrome -->
+    <test name="Automation of Emi_calculator.net in Firefox" duration-ms="84645" started-at="2020-08-04T12:35:50Z" finished-at="2020-08-04T12:37:14Z">
+      <class name="com.emi_calculator_grid.test.DriverTest">
+        <test-method status="PASS" signature="driver_ready(java.lang.String, java.lang.String)[pri:0, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="driver_ready" is-config="true" duration-ms="62184" started-at="2020-08-04T12:35:50Z" finished-at="2020-08-04T12:36:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://emicalculator.net/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_ready -->
+        <test-method status="PASS" signature="emicalculator_TitleTest()[pri:1, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="emicalculator_TitleTest" duration-ms="139" started-at="2020-08-04T12:36:52Z" finished-at="2020-08-04T12:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalculator_TitleTest -->
+        <test-method status="PASS" signature="select_homeloan()[pri:2, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="select_homeloan" duration-ms="2741" started-at="2020-08-04T12:36:52Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_homeloan -->
+        <test-method status="PASS" signature="select_personalloan()[pri:3, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="select_personalloan" duration-ms="618" started-at="2020-08-04T12:36:55Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_personalloan -->
+        <test-method status="PASS" signature="select_Car()[pri:4, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="select_Car" duration-ms="563" started-at="2020-08-04T12:36:55Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Car -->
+        <test-method status="PASS" signature="sent_ammount()[pri:5, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_ammount" duration-ms="1085" started-at="2020-08-04T12:36:56Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_ammount -->
+        <test-method status="PASS" signature="sent_interest()[pri:6, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_interest" duration-ms="480" started-at="2020-08-04T12:36:57Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_interest -->
+        <test-method status="PASS" signature="sent_tennure()[pri:7, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="sent_tennure" duration-ms="1216" started-at="2020-08-04T12:36:57Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.emicalculator_TitleTest" finished-at="2020-08-04T12:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sent_tennure -->
+        <test-method status="PASS" signature="screenshots_of_Sendkeys()[pri:8, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="screenshots_of_Sendkeys" duration-ms="1239" started-at="2020-08-04T12:36:59Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.sent_tennure" finished-at="2020-08-04T12:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_Sendkeys -->
+        <test-method status="PASS" signature="scroll_to_required_data()[pri:9, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="scroll_to_required_data" duration-ms="40" started-at="2020-08-04T12:37:00Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.screenshots_of_Sendkeys" finished-at="2020-08-04T12:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll_to_required_data -->
+        <test-method status="PASS" signature="expand_interest_amounts()[pri:10, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="expand_interest_amounts" duration-ms="2085" started-at="2020-08-04T12:37:00Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.scroll_to_required_data" finished-at="2020-08-04T12:37:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expand_interest_amounts -->
+        <test-method status="PASS" signature="screenshots_of_FirstMonthCredentials()[pri:11, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="screenshots_of_FirstMonthCredentials" duration-ms="314" started-at="2020-08-04T12:37:02Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshots_of_FirstMonthCredentials -->
+        <test-method status="PASS" signature="write_interest()[pri:12, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="write_interest" duration-ms="329" started-at="2020-08-04T12:37:03Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_interest -->
+        <test-method status="PASS" signature="write_principle()[pri:13, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="write_principle" duration-ms="468" started-at="2020-08-04T12:37:03Z" depends-on-methods="com.emi_calculator_grid.test.DriverTest.expand_interest_amounts" finished-at="2020-08-04T12:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write_principle -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.emi_calculator_grid.test.DriverTest@4c39bec8]" name="exit" is-config="true" duration-ms="10708" started-at="2020-08-04T12:37:04Z" finished-at="2020-08-04T12:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.emi_calculator_grid.test.DriverTest -->
+    </test> <!-- Automation of Emi_calculator.net in Firefox -->
+  </suite> <!-- Automation Test Suit for Emi_calculator.net -->
+</testng-results>
