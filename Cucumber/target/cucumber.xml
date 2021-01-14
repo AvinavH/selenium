@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="0.607">
+<testcase classname="Application Account" name="Home page default login" time="0.097">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login into the application with username as "Jon" and password as "Dany101".passed
+Then Home Page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page default login 2" time="0.008">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login into the application with username as "Jhon" and password as "Lily101".passed
+Then Home Page is populated.................................................passed
+And Cards are not displayed.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page Signup" time="0.011">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User sign up with following details....................................passed
+Then Home Page is populated.................................................passed
+And User is registered for the services.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page login" time="0.006">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login with Jon and dany101........................................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page login 2" time="0.006">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login with Jonas and Martha33.....................................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page login 3" time="0.006">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login with Avinav and Autumn21....................................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Account" name="Home page login 4" time="0.006">
+<system-out><![CDATA[Given browser is selected by user...........................................passed
+When browser is triggered...................................................passed
+Then check if browser is started............................................passed
+Given User is on landing Page...............................................passed
+When User login with Chandler and Monica26..................................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

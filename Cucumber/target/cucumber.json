@@ -1,0 +1,817 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.029Z",
+        "line": 12,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-account;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User login into the application with username as \"Jon\" and password as \"Dany101\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jon",
+                  "offset": 50
+                },
+                {
+                  "val": "Dany101",
+                  "offset": 72
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_into_the_application_with_username_as_something_and_password_as_something(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.displayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.149Z",
+        "line": 19,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-account;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User login into the application with username as \"Jhon\" and password as \"Lily101\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jhon",
+                  "offset": 50
+                },
+                {
+                  "val": "Lily101",
+                  "offset": 73
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_into_the_application_with_username_as_something_and_password_as_something(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Cards are not displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.nodisplayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.169Z",
+        "line": 26,
+        "name": "Home page Signup",
+        "description": "",
+        "id": "application-account;home-page-signup",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User sign up with following details",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_sign_up_with_following_details(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Hannibal",
+                  "Lecter",
+                  "hlecter@dark.com",
+                  "Atlanta",
+                  "603-34598746"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User is registered for the services",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_registered_for_the_services()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.195Z",
+        "line": 42,
+        "name": "Home page login",
+        "description": "",
+        "id": "application-account;home-page-login;login-details;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User login with Jon and dany101",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jon",
+                  "offset": 16
+                },
+                {
+                  "val": "dany101",
+                  "offset": 24
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.displayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.207Z",
+        "line": 43,
+        "name": "Home page login",
+        "description": "",
+        "id": "application-account;home-page-login;login-details;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User login with Jonas and Martha33",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jonas",
+                  "offset": 16
+                },
+                {
+                  "val": "Martha33",
+                  "offset": 26
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.displayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.223Z",
+        "line": 44,
+        "name": "Home page login",
+        "description": "",
+        "id": "application-account;home-page-login;login-details;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User login with Avinav and Autumn21",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Avinav",
+                  "offset": 16
+                },
+                {
+                  "val": "Autumn21",
+                  "offset": 27
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.displayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "browser is selected by user",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_selected_by_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "browser is triggered",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.browser_is_triggered()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check if browser is started",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.check_if_browser_is_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-05T14:07:39.235Z",
+        "line": 45,
+        "name": "Home page login",
+        "description": "",
+        "id": "application-account;home-page-login;login-details;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User is on landing Page",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.user_is_on_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User login with Chandler and Monica26",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Chandler",
+                  "offset": 16
+                },
+                {
+                  "val": "Monica26",
+                  "offset": 29
+                }
+              ],
+              "location": "stepDefinitions.stepDefinition.user_login_with_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "Home Page is populated",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.checkHomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "stepDefinitions.stepDefinition.displayCards()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PortalTest"
+          }
+        ]
+      }
+    ],
+    "name": "Application Account",
+    "description": "",
+    "id": "application-account",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/Account.feature",
+    "tags": []
+  }
+]
