@@ -1,0 +1,50 @@
+21:37:55,060  INFO CourseraHomePageTest:35 – Browser Invokation
+21:38:34,624  INFO CourseraHomePageTest:37 – Website Launched
+21:38:34,910  INFO CourseraHomePageTest:44 – Home Page Validation Test
+21:38:35,324  INFO CourseraHomePageTest:51 – Logo Verification Test
+21:38:35,560  INFO CourseraHomePageTest:58 – Search Field Verification Test
+21:38:35,602  INFO CourseraHomePageTest:65 – Search Button Verification Test
+21:38:35,638  INFO CourseraHomePageTest:72 – Explore Button Verification Test
+21:38:35,684  INFO CourseraHomePageTest:79 – Second Page Navigation Test
+21:38:45,656  INFO CourseraHomePageTest:111 – Closing the browser
+21:38:45,765 DEBUG cache:45 – Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:38:45,774 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:38:45,780 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:38:45,785 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:38:45,786 DEBUG cache:45 – Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/avina/AppData/Local/Temp/surefire8574488915309715195/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:38:47,231 DEBUG cache:45 – Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:38:47,232 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:38:47,234 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:38:47,236 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:38:47,236 DEBUG cache:45 – Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/avina/AppData/Local/Temp/surefire8574488915309715195/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:38:52,582  INFO CourseraSecondPageTest:39 – Brwoser invokation
+21:39:06,253  INFO CourseraSecondPageTest:41 – Website launched
+21:39:08,825  INFO CourseraSecondPageTest:49 – Verify SecondPage Test
+21:39:08,860  INFO CourseraSecondPageTest:56 – Verify Domain Name Test
+21:39:10,182  INFO CourseraSecondPageTest:63 – Skill Button Verification Test
+21:39:18,400  INFO CourseraSecondPageTest:78 – Set InValid Skill Filter Test: 1
+21:39:26,801  INFO CourseraSecondPageTest:88 – Set InValid Skill Filter Test: 2
+21:39:28,032  INFO CourseraSecondPageTest:98 – Set InValid Skill Filter Test: 3
+21:39:29,104  INFO CourseraSecondPageTest:70 – Set Valid Skill Filter Test
+21:39:29,809  INFO CourseraSecondPageTest:108 – Level Button Verification Test
+21:39:29,857  INFO CourseraSecondPageTest:115 – Set Level Filter Test
+21:39:30,201  INFO CourseraSecondPageTest:123 – Language Button Verification Test
+21:39:30,265  INFO CourseraSecondPageTest:130 – Set InValid Language Filter Test: 1
+21:39:31,643  INFO CourseraSecondPageTest:140 – Set InValid Language Filter Test: 2
+21:39:32,519  INFO CourseraSecondPageTest:150 – Set InValid Language Filter Test: 3
+21:39:33,425  INFO CourseraSecondPageTest:160 – Set Valid Language Filter Test
+21:39:33,964  INFO CourseraSecondPageTest:168 – Apply Button Verification Test
+21:39:34,006  INFO CourseraSecondPageTest:175 – Set Apply Filter Test
+21:39:36,130  INFO CourseraSecondPageTest:183 – Get First Course Info Test
+21:39:39,587  INFO CourseraSecondPageTest:191 – Get Second Course Info Test
+21:39:40,396  INFO CourseraSecondPageTest:225 – Closing off the browser
+21:39:40,396 DEBUG cache:45 – Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:39:40,397 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:39:40,398 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:39:40,399 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:39:40,399 DEBUG cache:45 – Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/avina/AppData/Local/Temp/surefire8574488915309715195/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+21:39:40,466 DEBUG cache:45 – Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+21:39:40,467 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+21:39:40,467 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+21:39:40,469 DEBUG cache:45 – TemplateLoader.findTemplateSource("Extent.ftl"): Found
+21:39:40,470 DEBUG cache:45 – Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/avina/AppData/Local/Temp/surefire8574488915309715195/..%5C..%5C..%5C..%5C.m2%5Crepository%5Ccom%5Crelevantcodes%5Cextentreports%5C2.41.2%5Cextentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
